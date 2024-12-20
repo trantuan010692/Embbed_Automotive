@@ -1,11 +1,11 @@
 # Embbed_Automotive
 # BÀI 2: GPIO
-# 1. Giới thiệu về SPL
+# 1. Khái niệm SPL:
 
 - SPL (Standard Peripherals Library) là thư viện chuẩn từ STMicroelectronics hỗ trợ lập trình vi điều khiển STM32.
 - Thư viện giúp đơn giản hóa lập trình và cấu hình các ngoại vi bằng API, thay vì thao tác trực tiếp với thanh ghi.
 
-# 2.Giới thiệu về GPIO
+# 2.GPIO:
 
 - GPIO (General Purpose Input/Output) là ngoại vi của STM32, có thể cấu hình thông qua SPL.
 - Các thư viện cần thiết: stm32f10x_gpio.h và stm32f10x_gpio.c.
